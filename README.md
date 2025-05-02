@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Tania Zarza! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Programadora+en+formaci%C3%B3n;Apasionada+por+la+tecnolog%C3%ADa+y+el+aprendizaje;Orientada+a+soluciones+creativas+%F0%9F%92%BB" alt="Typing SVG" />
+  font=Fira+Code&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Programadora+en+formaci%C3%B3n;Apasionada+por+la+tecnolog%C3%ADa+y+el+aprendizaje;Orientada+a+soluciones+creativas+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
