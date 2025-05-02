@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Tania Zarza! 👋</h1>
 
 <p align="center">
-  Programadora en formación.
+  Programadora en formación. <br>
   Apasionada por la tecnología y el aprendizaje.
 </p>
 
