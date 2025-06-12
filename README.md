@@ -41,7 +41,3 @@ Actualmente estoy organizando mis proyectos más destacados para compartirlos pr
 🔒 Información de contacto próximamente disponible.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Magali-Z&style=flat-square&color=blue" alt="Contador de visitas" />
-</p>
